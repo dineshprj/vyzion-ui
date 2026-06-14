@@ -1,5 +1,9 @@
+import Home from "@/app/home/page";
+
 export default function Page() {
   return (
-    <div className="bg-red-400 h-screen">hello</div>
+   <main>
+    <Home />
+   </main>
   );
 }

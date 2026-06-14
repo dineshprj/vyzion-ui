@@ -46,6 +46,7 @@ export default function Header() {
 
           <button
             className="
+            cursor-pointer
             text-white
             px-4 py-1.5
             bg-linear-to-r
