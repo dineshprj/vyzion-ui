@@ -10,6 +10,9 @@
   font-family: var(--font-inter);
 }
 
+.fontFirst{
+    font-family: var(--font-inter);
+}
 .logo {
   font-family: var(--font-bebas); 
 }
