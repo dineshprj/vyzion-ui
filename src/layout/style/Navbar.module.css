@@ -1,0 +1,15 @@
+@reference "tailwindcss";
+
+.menubar {
+  @apply text-slate-500 md:text-xs lg:text-sm hover:text-black transition duration-300 cursor-pointer ;
+  font-family: var(--font-inter);
+}
+
+.mobilenav {
+  @apply text-slate-500 text-sm flex flex-col hover:text-black transition duration-300 cursor-pointer ;
+  font-family: var(--font-inter);
+}
+
+.logo {
+  font-family: var(--font-bebas); 
+}
